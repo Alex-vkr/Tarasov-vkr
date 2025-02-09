@@ -1,0 +1,11 @@
+{
+  "db":{
+    "scheme": "cproto",
+    "hostname": "127.0.0.1",
+    "port": "6534",
+    "path": "diplom_vuls"
+  },
+  "http": {
+    "port": ":3352"
+  }
+}
